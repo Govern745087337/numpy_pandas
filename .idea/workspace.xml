@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b61159c4-5051-4713-ab5a-de571e8dd296" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NumpyArrayCut.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NumpyArrayMerge.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NumpyCorelation.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NumpyBaseOperation2.py" afterPath="$PROJECT_DIR$/NumpyBaseOperation2.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,6 +32,36 @@
       <file leaf-file-name="NumpyBaseOperation1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NumpyBaseOperation1.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumpyBaseOperation2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NumpyBaseOperation2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumpyArrayMerge.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NumpyArrayMerge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumpyArrayCut.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NumpyArrayCut.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="18" />
               <folding />
@@ -37,11 +69,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumpyBaseOperation2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NumpyBaseOperation2.py">
+      <file leaf-file-name="NumpyCorelation.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NumpyCorelation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            <state relative-caret-position="440">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumpyIndex.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NumpyIndex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -68,12 +110,16 @@
         <option value="$PROJECT_DIR$/NumpyBaseOperation.py" />
         <option value="$PROJECT_DIR$/NumpyBaseOperation1.py" />
         <option value="$PROJECT_DIR$/NumpyBaseOperation2.py" />
+        <option value="$PROJECT_DIR$/NumpyIndex.py" />
+        <option value="$PROJECT_DIR$/NumpyArrayMerge.py" />
+        <option value="$PROJECT_DIR$/NumpyArrayCut.py" />
+        <option value="$PROJECT_DIR$/NumpyCorelation.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="196" />
+    <option name="y" value="70" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -112,6 +158,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;null&#9;null" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -125,8 +172,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.NumpyBaseOperation2">
-    <configuration name="NumpyAttribute" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.NumpyCorelation">
+    <configuration name="NumpyArrayCut" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -138,12 +185,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="numpy_pandas" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumpyAttribute.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumpyArrayCut.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="NumpyBaseOperation1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="NumpyArrayMerge" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -155,7 +202,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="numpy_pandas" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumpyBaseOperation1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumpyArrayMerge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +224,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="NumpyCreatArrar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="NumpyCorelation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -189,28 +236,50 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="numpy_pandas" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumpyCreatArrar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumpyCorelation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.NumpyAttribute" />
-      <item index="1" class="java.lang.String" itemvalue="Python.NumpyCreatArrar" />
-      <item index="2" class="java.lang.String" itemvalue="Python.NumpyBaseOperation1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.NumpyBaseOperation2" />
+    <configuration name="NumpyIndex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="numpy_pandas" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumpyIndex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.NumpyBaseOperation2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.NumpyIndex" />
+      <item index="2" class="java.lang.String" itemvalue="Python.NumpyArrayMerge" />
+      <item index="3" class="java.lang.String" itemvalue="Python.NumpyArrayCut" />
+      <item index="4" class="java.lang.String" itemvalue="Python.NumpyCorelation" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.NumpyBaseOperation2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.NumpyBaseOperation1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.NumpyCreatArrar" />
-        <item index="3" class="java.lang.String" itemvalue="Python.NumpyAttribute" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.NumpyCorelation" />
+        <item index="1" class="java.lang.String" itemvalue="Python.NumpyArrayCut" />
+        <item index="2" class="java.lang.String" itemvalue="Python.NumpyArrayMerge" />
+        <item index="3" class="java.lang.String" itemvalue="Python.NumpyIndex" />
+        <item index="4" class="java.lang.String" itemvalue="Python.NumpyBaseOperation2" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -227,19 +296,25 @@
       <option name="project" value="LOCAL" />
       <updated>1543543058987</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;NumpyIndex&quot;">
+      <created>1543543954820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543543954820</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26115343" sideWeight="0.078891255" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26115343" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31664854" sideWeight="0.9211087" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -259,7 +334,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;NumpyBaseOperation&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;NumpyBaseOperation&quot;" />
+    <MESSAGE value="&quot;NumpyIndex&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;NumpyIndex&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -290,14 +366,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NumpyBaseOperation1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NumpyCreatArrar.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-214">
@@ -306,10 +374,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/NumpyIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NumpyBaseOperation1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/NumpyBaseOperation2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        <state relative-caret-position="480">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NumpyArrayMerge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NumpyArrayCut.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NumpyCorelation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
